@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.gray{
+	color:gray;
+}
+h1{
+	font-family: 'Great Vibes', cursive;
+}
+p{
+	font-family: 'Bacasime Antique', serif;
+}
+img{
+	margin-top:37px;
+}
